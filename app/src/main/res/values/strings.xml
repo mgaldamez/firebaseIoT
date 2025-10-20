@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseIoT</string>
+    <string name="temperatureLbl">Temperature:</string>
+    <string name="zeroLbl">0</string>
+    <string name="humidityLbl">Humidity:</string>
+    <string name="titleLbl">IoT Android</string>
+    <string name="turnOnLbl">Turn On</string>
+    <string name="turnOffLbl">Turn Off</string>
+</resources>
